@@ -13,6 +13,6 @@ Exe kullanmak istemiyorsanız aşağıdaki adımları takip ederek kendi bilgisa
 5. Açılan ekranda bütün checkboxların tikli olduğundan emin olun.
 6. Next'e basın.
 7. Gelen ekranda hiçbir şeye dokunmadan Install seçeneğine tıklayın.
-8. Yükleme işlemi bittiğinde tekrar powershell'i açarak 1. maddedeki komutla kurulumun tamamlanddığını onaylayın.
+8. Yükleme işlemi bittiğinde tekrar powershell'i açarak 1. maddedeki komutla kurulumun tamamlandığını onaylayın.
 9. Powershell üzerinde "pip install pandas openpyxl" komutunu çalıştıralım. Bunlar ihtiyacımız olan kütüphaneler.
 10. Bu işlemi tamamladıktan sonra .bat dosyasını çalıştırarak uygulamayı başlatabilirsiniz.
