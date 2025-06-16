@@ -2,7 +2,9 @@
 With this tool, you can convert the reports inside a zip file into a formatted XLSX file with just 2 clicks.
 
 # Kurulum
-Releases kısmından direkt olarak Exe dosyasını indirip kullanabilirsiniz.
+!!!!!!!!!!!!Releases kısmından direkt olarak Exe dosyasını indirip kullanabilirsiniz.!!!!!!!!!!!!
+![image](https://github.com/user-attachments/assets/fb8a006c-29d3-4b05-a9a0-8dd5dda2a0a5)
+
 
 Exe kullanmak istemiyorsanız aşağıdaki adımları takip ederek kendi bilgisayarınızda derleyebilirsiniz:
 
