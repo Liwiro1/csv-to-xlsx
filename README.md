@@ -3,7 +3,8 @@ With this tool, you can convert the reports inside a zip file into a formatted X
 
 # Kurulum
 !!!!!!!!!!!!Releases kısmından direkt olarak Exe dosyasını indirip kullanabilirsiniz.!!!!!!!!!!!!
-![image](https://github.com/user-attachments/assets/fb8a006c-29d3-4b05-a9a0-8dd5dda2a0a5)
+![image](https://github.com/user-attachments/assets/e625d04f-1373-4df8-b2a0-edbcda73637a)
+
 
 
 Exe kullanmak istemiyorsanız aşağıdaki adımları takip ederek kendi bilgisayarınızda derleyebilirsiniz:
