@@ -2,7 +2,7 @@
 With this tool, you can convert the reports inside a zip file into a formatted XLSX file with just 2 clicks.
 
 # Kurulum
-[Releases](https://github.com/Liwiro1/csv-to-xlsx/releases/tag/Stable-Version-v4.0) kısmından direkt olarak Exe dosyasını indirip kullanabilirsiniz.
+!!!!![Releases](https://github.com/Liwiro1/csv-to-xlsx/releases/tag/Stable-Version-v4.0) kısmından direkt olarak Exe dosyasını indirip kullanabilirsiniz.!!!!!
 
 
 
