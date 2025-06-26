@@ -3,7 +3,7 @@ With this tool, you can convert the reports inside a zip file into a formatted X
 
 # Kurulum
 !!!!!!!!!!!!Releases kısmından direkt olarak Exe dosyasını indirip kullanabilirsiniz.!!!!!!!!!!!!
-![image](https://github.com/user-attachments/assets/736f60be-f3e1-44bc-b200-cf81e9c95427)
+![image](https://github.com/user-attachments/assets/736f60be-f3e1-44bc-b200-cf81e9c95427)https://github.com/Liwiro1/csv-to-xlsx/releases/tag/Stable-Version-v4.0
 
 
 
